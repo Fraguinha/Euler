@@ -1,0 +1,5 @@
+(executable
+ (name p5)
+ (flags -w +A-70 -warn-error +A)
+ (modes native)
+ (promote (until-clean)))
